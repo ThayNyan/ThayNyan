@@ -22,3 +22,12 @@ não que eu queira resolver os problemas dessa empresa, mas entender como funcio
 ThayNyan/ThayNyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+  
+  <!-- MONTAR MEU NOVO README
+ https://devicon.dev/
+https://dev.to/envoy_/150-badges-for-github-pnk
+https://github.com/rafaballerini/rafaballerini/edit/main/README.md
+https://github.com/anuraghazra/github-readme-stats
+https://emojipedia.org/
+https://www.youtube.com/watch?v=TsaLQAetPLU&t=147s 
+-->
