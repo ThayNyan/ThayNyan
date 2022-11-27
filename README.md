@@ -8,20 +8,20 @@
 <br>
 <div align="center">
   <a href="https://github.com/thaynyan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaynyan&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaynyan&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thaynyan&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaynyan&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 <div align="center" style="display: inline_block"><br>
 <img align="center" alt="thays-html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="center" alt="thays-css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="center" alt="thays-javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 </div
-
+<br>
 <div> 
   <a href="https://instagram.com/thaynyan/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:thaynyan@outlookmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thays-figueiredo-013832162/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+ <br>
   <img align="right" alt="thay-gif" width="150" src="https://im3.ezgif.com/tmp/ezgif-3-f314dd4519.gif"> 
 </div>
           
