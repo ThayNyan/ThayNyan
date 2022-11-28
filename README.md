@@ -1,9 +1,9 @@
 <h1>Oláa 🐾 Me chamo Thays </h1>
   <ul>
-    <li>💻 Atualmente estou aprendendo HTML5 e CSS3 e pretendo aprender sobre JavaScript</li>
-    <li>📱 Futuramente quero colaborar com projetos Mobile</li>
-    <li>📒 Minha meta é aprender um pouco todos os dias</li>
-    <li>✨ Faço Faculdade EAD de Gestão, e tenho tempo livre quase todas as manhãs</li>
+    <li>💻 I am currently learning HTML5 and CSS3 and intend to learn about JavaScript</li>
+    <li>📱 In the future I want to collaborate with Mobile projects</li>
+    <li>📒 My goal is to learn a little bit every day</li>
+    <li>✨ I distance learning Management College, and I have free time almost every morning</li>
   </ul>
 <br>
 <div align="center">
