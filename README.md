@@ -24,9 +24,9 @@
 <br>
   <img align="right" alt="thay-gif" width="150" src="https://im3.ezgif.com/tmp/ezgif-3-f314dd4519.gif"> 
 </div>
- <div>         
+         
  ![snake gif](https://github.com/ThayNyan/ThayNyan/blob/output/github-contribution-grid-snake.svg)
- </div>         
+        
 <!---
 ThayNyan/ThayNyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
