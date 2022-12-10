@@ -22,10 +22,11 @@
   <a href="https://instagram.com/thaynyan/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:thaynyan@outlookmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>  
 <br>
-  <img align="right" alt="thay-gif" width="150" src="https://im3.ezgif.com/tmp/ezgif-3-f314dd4519.gif"> 
 </div>
          
- ![snake gif](https://github.com/ThayNyan/ThayNyan/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ThayNyan/ThayNyan/blob/output/github-contribution-grid-snake.svg)
+  
+  <img align="center" alt="thay-gif" width="150" src="https://im3.ezgif.com/tmp/ezgif-3-f314dd4519.gif"> 
         
 <!---
 ThayNyan/ThayNyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
