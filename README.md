@@ -1,9 +1,10 @@
 <h1>Oláa 🐾 Me chamo Thays </h1>
   <ul>
-    <li>💻 I am currently learning HTML5 and CSS3 and intend to learn about JavaScript</li>
-    <li>📱 In the future I want to collaborate with Mobile projects</li>
-    <li>📒 My goal is to learn a little bit every day</li>
-    <li>✨ I distance learning Management College, and I have free time almost every morning</li>
+    <li>📊 Currently focused on learning Advanced Excel, Power BI, and English for data analysis</li>
+    <li>🧠 Self-taught and committed to daily progress and hands-on practice</li>
+    <li>🐍 Interested in learning Python and SQL to deepen my data analysis skills</li>
+    <li>🎓 Graduated in Information Technology Management</li>
+    <li>🚀 My goal is to transition into a data-driven career and apply my skills in real-world projects</li>
   </ul>
 <br>
 <div align="center">
